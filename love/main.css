@@ -161,3 +161,11 @@ p {
     text-align: center;
     
 }
+
+@media screen and (max-width: 658px)    {
+  p {
+    font-weight: 600;
+    font-size: 12vw;
+    text-align: center;
+}
+}
